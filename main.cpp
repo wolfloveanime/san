@@ -5,6 +5,6 @@ int main(void)
 {
 	SetConcoleCp(1251);
 	SetConsoleOutputCp(1251);
-	cout << "Привет мир!!!";
+	cout << "Привет мир!!!";//error
 	return 0;
 }
